@@ -1,58 +1,58 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "name": "Alexander Klein",
+        "label": "Web Developer",
+        "email": "alexanderjamesklein@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
-        "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "x_title": "Howdy, I'm",
+        "job": "Full-Stack Developer",
+        "description": "Thanks for stopping by! I'm a life-long student of technology always looking to experiment and grow! If you think you have  a project that I could assist with, please feel free to get in touch and lets collaborate!",
+        "summary": "based in Southern California.",
+        "keywords": "personal,website,portfolio,template,kit,alexklein,alexanderklein,oc,orangecounty,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://aklein.netlify.app",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Laguna Beach",
+            "country": "USA",
+            "countryCode": "US",
+            "region": "Los Angeles"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "alexanderjamesklein@gmail.com",
+                "url": "mailto:alexanderjamesklein@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
                 "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "url": "https://www.linkedin.com/in/alexanderjamesklein/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
                 "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "url": "https://github.com/mewmix",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
                 "username": "johoop",
-                "url": "https://gitlab.com/JoHoop",
+                "url": "https://gitlab.com/mewmix",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "jolienhoop",
-                "url": "https://t.me/jolienhoop",
+                "username": "ze_rg",
+                "url": "https://t.me/ze_rg",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "Jo#4467",
+                "username": "",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
@@ -117,8 +117,8 @@
     ],
     "languages": [
         {
-            "language": "German",
-            "fluency": "Native speaker"
+            "language": "Mandarin",
+            "fluency": "HS Year 4 speaker"
         },
         {
             "language": "English",
@@ -132,7 +132,7 @@
     "interests": [
         {
             "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
+            "keywords": ["Otters", "Ferrets"]
         }
     ],
     "references": [

@@ -28,19 +28,19 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
+                "username": "alexklein",
                 "url": "https://www.linkedin.com/in/alexanderjamesklein/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
+                "username": "mewmix",
                 "url": "https://github.com/mewmix",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "johoop",
+                "username": "mewmix",
                 "url": "https://gitlab.com/mewmix",
                 "x_icon": "fab fa-gitlab"
             },
